@@ -58,4 +58,5 @@ Botão 🔄: Sorteia uma nova palavra aleatória;
 Botão ▶️: Ativa modo automático (para testes ou demonstrações).
 
 🙋‍♀️ Sobre Mim
+
 Desenvolvido por Lorena Muller
